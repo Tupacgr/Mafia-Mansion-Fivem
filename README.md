@@ -2,6 +2,9 @@
 **Hi guys!**
 This is a mafia mansion ymap for your fivem server!
 
+Video Preview:
+https://www.youtube.com/watch?v=qEwdtAtQw_I&ab_channel=%CE%93%CE%B9%CE%AC%CE%BD%CE%BD%CE%B7%CF%8207
+
 ALL CREDITS FOR THE VIDEO GO TO https://forum.cfx.re/u/NotoriousAussie
 
 Installation in fivem:
