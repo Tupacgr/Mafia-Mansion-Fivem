@@ -16,6 +16,12 @@ BUILDING COORDS 177.25 -2076.39 18.59
 
 CREATED USING CODE WALKER download: https://www.gta5-mods.com/tools/codewalker-gtav-interactive-3d-map
 
+Contact: Email: johnlar0701@gmail.com
+
+Discord Username: fronxofficial
+
+Discord Server: https://discord.gg/6fuPqT25EM
+
 ***!ATTENTION! BY DOWNLOADING THESE FILES YOU AGREE TO***
 ***1. Do not try to make money(sell) this resource!***
 ***2. If you want to edit the files and release them you must get my written permission from me (to ask for it you should message me in personal in the forums)**
